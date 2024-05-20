@@ -1,1 +1,7 @@
 Práctico 1
+
+Estos son los requisitos:
+•	Se añadirán los volúmenes necesarios para que el servicio obtenga los ficheros necesarios desde la carpeta local del proyecto (ficheros init.sql, index.php, user.php y style.css). 
+•	Se creará al menos una network en el Docker-compose.
+•	Se añadirán las dependencias necesarias entre servicios.
+•	Se respetarán las directrices definidas en el Docker-compose proporcionado.
