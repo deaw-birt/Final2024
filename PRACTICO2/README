@@ -1,1 +1,6 @@
 Práctico 2
+
+Estos son los requisitos:
+•	El contenedor “servidor” se creará a partir del Dockerfile alojado en la carpeta “wildfly”.
+•	Los puertos del contenedor “servidor” serán los que aparecen en la imagen anterior (8009, 8080 y 9990).
+•	Los .war alojados en la carpeta “war” deberán aparecer en el listado de aplicaciones a desplegar de Wildfly (los añadiremos a la carpeta “deployments” del servicio).
