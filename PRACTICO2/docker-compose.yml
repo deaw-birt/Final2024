@@ -1,0 +1,5 @@
+# Versión utilizada
+# La versión 3 es la más utilizada y la que se recomienda
+version: '3'
+
+# Configuración de los servidores que vamos a necesitar
